@@ -13,7 +13,6 @@
                 <li><a href="#">Home</a></li>
                 <li><a href="#">About Me</a></li>
                 <li><a href="#">Services</a></li>
-                <li><a href="#">Contact</a></li>
             </ul>
         </nav>
         <div class="hero">
@@ -41,7 +40,7 @@
     </section>
 
     <section id="contact" class="contact">
-        <h2>Contact Us</h2>
+        <h2>Contact Me</h2>
         <p>09171129605</p>
         <form action="submit_form.php" method="POST">
             <label for="name">Name:</label>
