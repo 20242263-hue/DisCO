@@ -42,6 +42,7 @@
 
     <section id="contact" class="contact">
         <h2>Contact Us</h2>
+        <p>09171129605</p>
         <form action="submit_form.php" method="POST">
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
