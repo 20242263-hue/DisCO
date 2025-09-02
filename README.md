@@ -11,7 +11,7 @@
         <nav class="navbar">
             <ul>
                 <li><a href="#">Home</a></li>
-                <li><a href="#">About Us</a></li>
+                <li><a href="#">About Me</a></li>
                 <li><a href="#">Services</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
@@ -25,18 +25,18 @@
 
     <section class="about">
         <h2>About Us</h2>
-        <p>We are a passionate team dedicated to creating high-quality content that inspires and informs.</p>
+        <p>I'm dedicated to creating high-quality content that inspires and informs.</p>
     </section>
 
     <section class="services">
         <h2>Our Services</h2>
         <div class="service">
             <h3>Web Design</h3>
-            <p>We create stunning and responsive websites that engage your audience.</p>
+            <p>I try to create stunning and responsive websites that engage your audience.</p>
         </div>
         <div class="service">
             <h3>Content Creation</h3>
-            <p>We craft compelling content tailored to your brand and audience.</p>
+            <p>I craft compelling content tailored to your brand and audience.</p>
         </div>
     </section>
 
@@ -54,7 +54,7 @@
     </section>
 
     <footer class="footer">
-        <p>&copy; 2023 My Landing Page</p>
+        <p>&copy; 2025 My Landing Page</p>
     </footer>
 </body>
 </html>
